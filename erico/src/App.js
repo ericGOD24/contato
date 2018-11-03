@@ -1,25 +1,26 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './stylesheet/App.css';
+import Presentation from './Components/Presentation/Presentation';
+import HabilidadesInteresses from './Components/HabilidadesInteresses/HabilidadesInteresses';
+import Tecnologias from './Components/Tecnologias/Tecnologias';
+import EducacaoExperiencias from './Components/EducacaoExperiencias/EducacaoExperiencias';
+import Projetos from './Components/Projetos/Projetos';
+import Contato from './Components/Contato/Contato'
+import Navbar from './Components/Navbar/Navbar'
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <Navbar>
+          <Presentation/>
+          <HabilidadesInteresses/>
+          <Tecnologias/>
+          <EducacaoExperiencias/>
+          <Projetos/>
+          <Contato/>
+        </Navbar>
       </div>
     );
   }

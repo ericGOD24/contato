@@ -1,0 +1,16 @@
+.Tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.TagsArea {
+    width: 50em;
+    margin: auto;
+    padding-bottom: 8em;
+    text-align: center;
+}
+
+#Interesses {
+    width: 30em;
+}
