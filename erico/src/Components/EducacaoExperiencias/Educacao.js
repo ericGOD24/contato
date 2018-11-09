@@ -10,17 +10,17 @@ class Educacao extends Component {
         {
             nome: 'Engenharia de Software' ,
             local: 'Universidade de Brasília',
-            periodo: '2017-Atualmente'
+            periodo: '2016-Atualmente'
         },
         {
             nome: 'Ensino Médio' ,
-            local: 'Colégio CIMAN',
-            periodo: '2014-2016'
+            local: 'Colégio Olimpo',
+            periodo: '2012-2014'
         },
         {
-            nome: 'Curso de Inglês Avançado',
-            local: 'Casa Thomas Jefferson',
-            periodo: '2014-2016'
+            nome: 'MBJ Jr.',
+            local: 'IEG Escola de Negócios',
+            periodo: '2017-2018'
         }
       ];
 

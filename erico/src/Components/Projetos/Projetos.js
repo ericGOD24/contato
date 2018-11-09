@@ -7,17 +7,17 @@ class Projetos extends Component {
     render() {
         var projetos = [
             {
-                name: 'Nuntium',
+                name: 'BabyWeb',
                 cargo: 'Desenvolvedor',
-                resumo: 'Site para compartilhamento de textos, desenvolvido para a matéria de Orientação à Objetos da Universidade de Brasília',
+                resumo: 'Site para contratação de babas, desenvolvido para a matéria de Orientação à Objetos da Universidade de Brasília',
                 status: 'Terminado',
                 link: 'Phe0/Nuntium'
             },
             {
                 name: 'Kalkuli',
                 cargo: 'Desenvolvedor',
-                resumo: 'Site para gestão financeira a partir de imagens de DANFEs, desenvolvida para a matéria Métodos de Desenvolvimento de Software da Univeridade de Brasília',
-                status: 'Em desenvolvimento',
+                resumo: 'Site que compara os dados de deputados da câmara com sua opnião sobre propostas de lei e assim mostrando a compatibilidade com os parlamentares.',
+                status: 'Terminado',
                 link: 'fga-eps-mds/2018.2-Kalkuli'
             },
             {
@@ -25,7 +25,7 @@ class Projetos extends Component {
                 cargo: 'Desenvolvedor',
                 resumo: 'Site destinado para o compartilhamento do meu currículo pessoal(este mesmo)',
                 status: 'Terminado',
-                link: 'Phe0/React'
+                link: 'ericGOD24/contato'
             }
           ];
     

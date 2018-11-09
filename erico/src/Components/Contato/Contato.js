@@ -12,7 +12,7 @@ const Contato = () => {
             <h1 className="title" >Entre em contato</h1>
             <div className="linha">
                 <img className="contato-icon" src={whatsapp} alt="whatsapp-icon"/>
-                <h4 className="contato-text" >+55(61)98330-3025</h4>
+                <h4 className="contato-text" >+55 (61) 98330-3025</h4>
             </div>
             <div className="linha">
                 <img className="contato-icon" src={telegram} alt="telegram-icon"/>

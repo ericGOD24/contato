@@ -8,17 +8,17 @@ class Experiencias extends Component {
   render() {
     var infos = [
         {
-            cargo: 'Diretor de Operações' ,
+            cargo: 'Diretor de Marketing' ,
             local: "Orc'estra Gamificação",
             periodo: '2018'
         },
         {
-            cargo: 'Desenvolvedor' ,
+            cargo: 'Desenvolvedor Front-end' ,
             local: 'Universidade de Brasília',
-            periodo: '2014-Atualmente'
+            periodo: '2016-Atualmente'
         },
         {
-            cargo: 'Assessor de Gestão de Pessoas' ,
+            cargo: 'Assessor de Projetos',
             local: "Orc'estra Gamificação",
             periodo: '2017'
         }
