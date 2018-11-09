@@ -7,14 +7,7 @@ class Projetos extends Component {
     render() {
         var projetos = [
             {
-                name: 'BabyWeb',
-                cargo: 'Desenvolvedor',
-                resumo: 'Site para contratação de babas, desenvolvido para a matéria de Orientação à Objetos da Universidade de Brasília',
-                status: 'Terminado',
-                link: 'Phe0/Nuntium'
-            },
-            {
-                name: 'Kalkuli',
+                name: 'VoxPop',
                 cargo: 'Desenvolvedor',
                 resumo: 'Site que compara os dados de deputados da câmara com sua opnião sobre propostas de lei e assim mostrando a compatibilidade com os parlamentares.',
                 status: 'Terminado',
@@ -26,6 +19,13 @@ class Projetos extends Component {
                 resumo: 'Site destinado para o compartilhamento do meu currículo pessoal(este mesmo)',
                 status: 'Terminado',
                 link: 'ericGOD24/contato'
+            },
+            {
+                name: 'Casa Inteligente',
+                cargo: 'Gerente',
+                resumo: 'Projeto de uma casa inteligente para a matéria de Projeto Integrador 1, da Universidade de Brasília',
+                status: 'Terminado',
+                link: 'casatecnologicapi1'
             }
           ];
     
