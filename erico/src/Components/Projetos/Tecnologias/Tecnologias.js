@@ -15,7 +15,6 @@ class Tecnologias extends Component {
             {
                 name: 'Ruby on Rails'
             },
-
             {
                 name: 'Git'
             },
@@ -33,6 +32,9 @@ class Tecnologias extends Component {
             },
             {
                 name: 'Javascript'
+            },
+            {
+                name: 'Angular'
             },
             {
                 name: 'React'

@@ -11,7 +11,7 @@ class Projetos extends Component {
                 cargo: 'Desenvolvedor',
                 resumo: 'Site que compara os dados de deputados da câmara com sua opnião sobre propostas de lei e assim mostrando a compatibilidade com os parlamentares.',
                 status: 'Terminado',
-                link: 'fga-eps-mds/2018.2-Kalkuli'
+                link: 'fga-eps-mds/2018.1-VoxPoP-WebApp'
             },
             {
                 name: 'Currículo Online',
