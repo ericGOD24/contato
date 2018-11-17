@@ -26,6 +26,9 @@ const Contato = () => {
                 <a href={`https://github.com/ericGOD24`} >
                     <img className="contato-icon icon-hover" src={require('../../img/logos/github-logo.png')} alt="github-logo" ></img>
                 </a>
+                <a href={`https://gitlab.com/ericGOD`} >
+                    <img className="contato-icon icon-hover" src={require('../../img/logos/gitlab-logo.png')} alt="github-logo" ></img>
+                </a>
                 <a href={`https://www.linkedin.com/in/EricoBandeira/`} >
                     <img className="contato-icon icon-hover" src={require('../../img/logos/linkedin-white.png')} alt="github-logo" ></img>
                 </a>

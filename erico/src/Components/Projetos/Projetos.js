@@ -16,7 +16,7 @@ class Projetos extends Component {
             {
                 name: 'Currículo Online',
                 cargo: 'Desenvolvedor',
-                resumo: 'Site destinado para o compartilhamento do meu currículo pessoal(este mesmo)',
+                resumo: 'Site destinado para o compartilhamento do meu currículo pessoal (este site)',
                 status: 'Terminado',
                 link: 'ericGOD24/contato'
             },
