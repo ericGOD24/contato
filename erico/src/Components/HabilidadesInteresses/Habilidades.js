@@ -17,9 +17,6 @@ class Habilidades extends Component {
             title: 'Marketing Digital'
         },
         {
-            title: 'Liderança'
-        },
-        {
             title: 'Prototipagem'
         },
         {
@@ -36,12 +33,15 @@ class Habilidades extends Component {
         },
         {
             title: 'Modelagem de Bancos'
+        },
+        {
+            title: 'Elicitação de Requisitos'
         }
       ];
 
       return(
           <div className="TagsArea">
-            <h1 className="AreaName">Habilidades</h1>
+            <h1 className="AreaName">Hard Skills</h1>
             <div className="Tags">
                 {habilidades.map((i) => {
                     return(
