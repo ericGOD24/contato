@@ -36,6 +36,12 @@ class Habilidades extends Component {
         },
         {
             title: 'Elicitação de Requisitos'
+        },
+        {
+            title: 'Mapeamento de Processos'
+        },
+        {
+            title: 'Planejamento de Medição'
         }
       ];
 

@@ -8,25 +8,33 @@ class Projetos extends Component {
         var projetos = [
             {
                 name: 'VoxPop',
-                cargo: 'Desenvolvedor',
+                cargo: ' Desenvolvedor',
                 resumo: 'Site que compara os dados de deputados da câmara com sua opnião sobre propostas de lei e assim mostrando a compatibilidade com os parlamentares.',
-                status: 'Terminado',
+                status: ' Terminado',
                 link: 'fga-eps-mds/2018.1-VoxPoP-WebApp'
             },
             {
                 name: 'Currículo Online',
-                cargo: 'Desenvolvedor',
+                cargo: ' Desenvolvedor',
                 resumo: 'Site destinado para o compartilhamento do meu currículo pessoal (este site)',
-                status: 'Terminado',
+                status: ' Terminado',
                 link: 'ericGOD24/contato'
             },
             {
                 name: 'Casa Inteligente',
-                cargo: 'Gerente',
+                cargo: ' Gerente',
                 resumo: 'Projeto de uma casa inteligente para a matéria de Projeto Integrador 1, da Universidade de Brasília',
-                status: 'Terminado',
+                status: ' Terminado',
                 link: 'casatecnologicapi1'
+            },
+            {
+                name: 'ForsFood',
+                cargo: ' Gerente/Desenvolvedor',
+                resumo: 'Projeto pessoal: Rede social voltada para competidores de comidas e pessoas que gostam do hobbie e querem acompanhar',
+                status: ' Em Desenvolvimento',
+                link: 'ericGOD24/Forsfood'
             }
+            
           ];
     
           return(

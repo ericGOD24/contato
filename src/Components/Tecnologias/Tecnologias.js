@@ -43,6 +43,9 @@ class Tecnologias extends Component {
                 name: 'Angular'
             },
             {
+                name: 'Django REST'
+            },
+            {
                 name: 'React'
             },
             {
