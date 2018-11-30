@@ -49,6 +49,9 @@ class Tecnologias extends Component {
                 name: 'React'
             },
             {
+                name: 'Docker'
+            },
+            {
                 name: 'SQL'
             }
           ];
