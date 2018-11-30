@@ -1,7 +1,7 @@
 {
-  "main.css": "/contato/static/css/main.2b8d9cc9.chunk.css",
-  "main.js": "/contato/static/js/main.c934adbd.chunk.js",
-  "main.js.map": "/contato/static/js/main.c934adbd.chunk.js.map",
+  "main.css": "/contato/static/css/main.946d64e0.chunk.css",
+  "main.js": "/contato/static/js/main.d36e77e9.chunk.js",
+  "main.js.map": "/contato/static/js/main.d36e77e9.chunk.js.map",
   "static/js/1.e156458a.chunk.js": "/contato/static/js/1.e156458a.chunk.js",
   "static/js/1.e156458a.chunk.js.map": "/contato/static/js/1.e156458a.chunk.js.map",
   "runtime~main.js": "/contato/static/js/runtime~main.5c82db91.js",
@@ -21,8 +21,8 @@
   "static/media/Sql-white.png": "/contato/static/media/Sql-white.c8a780bd.png",
   "static/media/telegram-white.png": "/contato/static/media/telegram-white.426d7c1e.png",
   "static/media/gitlab-logo.png": "/contato/static/media/gitlab-logo.a95dd3db.png",
-  "static/css/main.2b8d9cc9.chunk.css.map": "/contato/static/css/main.2b8d9cc9.chunk.css.map",
+  "static/css/main.946d64e0.chunk.css.map": "/contato/static/css/main.946d64e0.chunk.css.map",
   "index.html": "/contato/index.html",
-  "precache-manifest.b62848a961eea9ba308a397f33d305c9.js": "/contato/precache-manifest.b62848a961eea9ba308a397f33d305c9.js",
+  "precache-manifest.5507153312a475dfd006a928eae4a5ab.js": "/contato/precache-manifest.5507153312a475dfd006a928eae4a5ab.js",
   "service-worker.js": "/contato/service-worker.js"
 }
