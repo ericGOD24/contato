@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/contato/static/media/Angular-white.c6d05bc7.png"
   },
   {
-    "revision": "d36e77e906f851cb4c0e",
+    "revision": "389f491a2f33b37b437a",
     "url": "/contato/static/css/main.946d64e0.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/contato/static/media/erico.bdeaeef5.bin"
   },
   {
-    "revision": "d36e77e906f851cb4c0e",
-    "url": "/contato/static/js/main.d36e77e9.chunk.js"
+    "revision": "389f491a2f33b37b437a",
+    "url": "/contato/static/js/main.389f491a.chunk.js"
   },
   {
     "revision": "d9f03fbbe1017ced49070baa9be29159",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/contato/static/media/gitlab-logo.a95dd3db.png"
   },
   {
-    "revision": "7a7c9ce375e74d37278d69de17b7c7ed",
+    "revision": "690e98c678872c723e32d8b6c9400dba",
     "url": "/contato/index.html"
   }
 ];
